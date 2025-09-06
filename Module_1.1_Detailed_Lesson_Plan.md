@@ -19,7 +19,7 @@
 - Cost implications and choosing the right AI tool
 - Real-world applications 
 
-### **Evolution of AI - Simple Timeline (15 minutes)**
+### **Evolution of AI - Simple Timeline
 
 **Think of AI Evolution Like This**:
 "Imagine AI like a student learning to read. First, they learn letters, then words, then sentences, then stories. AI has gone through a similar journey!"
@@ -56,7 +56,7 @@
 - It can **create new content** (like writing original stories)
 - It can **reason and problem-solve** (like thinking through complex problems)
 
-### **Why AI Skills Matter for Your Career (10 minutes)**
+### **Why AI Skills Matter for Your Career 
 
 **The Numbers - 2024 Data**:
 - Companies are hiring people who know AI: **400% more jobs** in the last year
@@ -79,9 +79,9 @@
 
 ---
 
-## **Part 2: Understanding LLMs - GPT-4o, Claude 3.5, Gemini 1.5 (45 minutes)**
+## **Part 2: Understanding LLMs - GPT-4o, Claude 3.5, Gemini 1.5 **
 
-### **Understanding Large Language Models (LLMs) - The Simple Way (15 minutes)**
+### **Understanding Large Language Models (LLMs) - The Simple Way **
 
 **Think of LLMs Like This**:
 "Imagine you have a super-smart friend who has read millions of books, articles, and websites. They can understand what you're asking, think about it, and give you helpful answers. That's what Large Language Models (LLMs) like ChatGPT are like!"
@@ -91,7 +91,7 @@
 - **Language**: They understand and work with human language
 - **Models**: They're computer programs that can predict and generate text
 
-**Popular LLMs - 2024 Models**:
+**Popular LLMs - **:
 
 **Text-Based LLMs**:
 - **GPT-4o** (by OpenAI): Most advanced, great for creative writing and problem-solving
@@ -125,7 +125,7 @@
 - **Real-time Search**: Access current information from the web
 - **Voice Interaction**: Natural voice conversations with AI
 
-### **How LLMs Work - Transformers and Attention Mechanisms (Simplified) (20 minutes)**
+### **How LLMs Work - Transformers and Attention Mechanisms **
 
 **Think of How LLMs Work Like This**:
 "Imagine you're reading a book and trying to understand a sentence. You don't just look at each word by itself - you look at the words around it, the context, and how they all relate to each other. That's how LLMs work too!"
@@ -161,7 +161,7 @@
 - They learn from examples, not from real-time information
 - They're tools to help you, not replace your thinking
 
-### **Understanding Limits - What You Need to Know (10 minutes)**
+### **Understanding Limits - What You Need to Know **
 
 **What LLMs Are Good At**:
 - Writing and editing text
@@ -316,7 +316,7 @@ Total: 11,000 tokens ❌ (Too big!)
 
 ## **Part 5: Hands-on Lab - Exploring Different AI Tools**
 
-### **Lab Setup - Step by Step (5 minutes)**
+### **Lab Setup - Step by Step**
 
 **What You'll Need**:
 - A computer with internet connection
@@ -339,7 +339,7 @@ Total: 11,000 tokens ❌ (Too big!)
 - **New Chat**: Start a fresh conversation
 - **Model Selector**: Choose between GPT-3.5 (free) and GPT-4 (paid)
 
-**Step 3: Create Additional Accounts (Optional)**
+**Step 3: Create Additional Accounts **
 - **Claude**: https://claude.ai
 - **Gemini**: https://gemini.google.com
 - **DeepSeek**: https://chat.deepseek.com
@@ -431,7 +431,7 @@ Copy and paste a long article or document, then ask: "Summarize this for me"
 
 ## **Part 6: Real-World Applications - Which AI Tool to Use **
 
-### **Choosing the Right AI Tool for Different Tasks (15 minutes)**
+### **Choosing the Right AI Tool for Different Tasks **
 
 **Think of AI Tools Like This**:
 "Imagine you're choosing tools for different jobs. You wouldn't use a hammer to cut paper, or scissors to drive a nail. Each AI tool has strengths for different tasks!"
