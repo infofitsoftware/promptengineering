@@ -118,7 +118,7 @@
 - **Translate**: Languages, technical terms, complex ideas
 - **Create**: Ideas, outlines, summaries, creative content
 
-**Multimodal Capabilities (2024 Market Leaders)**:
+**Multimodal Capabilities :
 - **Image Analysis**: Describe, analyze, and understand images
 - **Audio Processing**: Voice conversations, speech-to-text, audio analysis
 - **Video Understanding**: Analyze video content, extract information
@@ -186,9 +186,9 @@
 
 ---
 
-## **Part 3: Tokenization and Context Windows - Practical Examples (30 minutes)**
+## **Part 3: Tokenization and Context Windows 
 
-### **Understanding Tokens - The Building Blocks (15 minutes)**
+### **Understanding Tokens - The Building Blocks
 
 **Think of Tokens Like This**:
 "Imagine you're building with LEGO blocks. Each block is a piece that fits together to make something bigger. Tokens are like LEGO blocks for AI - they're the pieces that AI uses to understand and create text."
@@ -221,7 +221,7 @@ Number of Tokens: 4
 - **Speed**: More tokens = slower processing
 - **Limits**: AI has maximum token limits
 
-### **Understanding Context Windows - AI's Memory (15 minutes)**
+### **Understanding Context Windows - AI's Memory **
 
 **Think of Context Windows Like This**:
 "Imagine you have a notebook with limited pages. You can only remember what fits on those pages. That's like an AI's context window - it's how much information the AI can 'remember' at once."
@@ -244,7 +244,7 @@ AI Response: 3,000 tokens
 Total: 11,000 tokens ❌ (Too big!)
 ```
 
-**Context Window Sizes - 2024 Models**:
+**Context Window Sizes - **:
 - **GPT-4o**: 128,000 tokens (about 100 pages of text)
 - **Claude 3.5 Sonnet**: 200,000 tokens (about 150 pages of text)
 - **Gemini 1.5 Pro**: 1,000,000 tokens (about 750 pages of text)
@@ -264,9 +264,9 @@ Total: 11,000 tokens ❌ (Too big!)
 
 ---
 
-## **Part 4: Cost Implications and Model Selection (15 minutes)**
+## **Part 4: Cost Implications and Model Selection 
 
-### **Understanding AI Costs - Making Smart Choices (15 minutes)**
+### **Understanding AI Costs - Making Smart Choices
 
 **Think of AI Costs Like This**:
 "Imagine you're choosing between different restaurants. Some are expensive but have amazing food, others are cheaper but still good. AI models work the same way - you pay for what you get!"
@@ -276,7 +276,7 @@ Total: 11,000 tokens ❌ (Too big!)
 - **Output Tokens**: What AI sends back to you (responses)
 - **You pay for both** input and output tokens
 
-**Cost Examples - 2024 Pricing**:
+**Cost Examples - **:
 
 **Premium Models**:
 - **GPT-4o (Most Advanced)**: Input: $5/1M tokens, Output: $15/1M tokens
@@ -314,7 +314,7 @@ Total: 11,000 tokens ❌ (Too big!)
 
 ---
 
-## **Part 5: Hands-on Lab - Exploring Different AI Tools (30 minutes)**
+## **Part 5: Hands-on Lab - Exploring Different AI Tools**
 
 ### **Lab Setup - Step by Step (5 minutes)**
 
@@ -346,7 +346,7 @@ Total: 11,000 tokens ❌ (Too big!)
 - **Perplexity**: https://perplexity.ai
 - **Copilot**: https://copilot.microsoft.com
 
-### **Lab Exercise 1: Your First AI Conversation (10 minutes)**
+### **Lab Exercise 1: Your First AI Conversation **
 
 **Task**: Have your first conversation with AI and understand tokenization
 
@@ -376,7 +376,7 @@ Hello! I'm learning about AI. Can you tell me what you are and how you work?
 - How it explains things clearly
 - The length of responses (more tokens = longer response)
 
-### **Lab Exercise 2: Testing Different AI Models (10 minutes)**
+### **Lab Exercise 2: Testing Different AI Models **
 
 **Task**: Compare different AI models and understand their strengths
 
@@ -406,7 +406,7 @@ Upload an image and ask: "Describe what you see in this image"
 - Multimodal capabilities (image, audio, video processing)
 - Cost differences between models
 
-### **Lab Exercise 3: Understanding Context Windows (5 minutes)**
+### **Lab Exercise 3: Understanding Context Windows **
 
 **Task**: Test context window limits and understand token usage
 
@@ -429,7 +429,7 @@ Copy and paste a long article or document, then ask: "Summarize this for me"
 
 ---
 
-## **Part 6: Real-World Applications - Which AI Tool to Use (15 minutes)**
+## **Part 6: Real-World Applications - Which AI Tool to Use **
 
 ### **Choosing the Right AI Tool for Different Tasks (15 minutes)**
 
@@ -479,7 +479,7 @@ Copy and paste a long article or document, then ask: "Summarize this for me"
 4. **Do you need images/audio/video?** → Choose multimodal models (Gemini 1.5 Pro, GPT-4o)
 5. **Do you need real-time data?** → Choose models with web access (Perplexity, Gemini)
 
-### **Hands-on Practice - Building Your First Effective Prompt (10 minutes)**
+### **Hands-on Practice - Building Your First Effective Prompt **
 
 **Exercise**: Practice creating effective prompts for real-world tasks
 
@@ -524,9 +524,8 @@ Examples: Use formal tone, include specific achievements
 
 ---
 
-## **Assessment and Wrap-up (10 minutes)**
-
-### **Quick Knowledge Check (5 minutes)**
+## **Assessment 
+### **Quick Knowledge Check
 **Questions**:
 1. What are the main differences between GPT-4o, Claude 3.5, Gemini 1.5, and DeepSeek V2?
 2. What are tokens and why do they matter for cost?
@@ -535,7 +534,7 @@ Examples: Use formal tone, include specific achievements
 5. How do you choose the right AI model for different tasks (text, images, audio, video)?
 6. Why is learning AI skills valuable for your career?
 
-### **Key Takeaways (3 minutes)**
+### **Key Takeaways 
 1. **AI has evolved from simple rules to intelligent assistants that can understand and create content**
 2. **Different AI models have different strengths - choose the right tool for your task**
 3. **Tokens and context windows affect both cost and functionality**
