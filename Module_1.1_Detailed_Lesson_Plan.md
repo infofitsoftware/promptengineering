@@ -9,7 +9,7 @@
 ## **Part 1: Evolution of AI and NLP 
 
 
-"Meet Sarah, a marketing manager. Last year, she spent 40 hours per week writing product descriptions and social media posts. Today, with AI help, she does the same work in 8 hours. What changed? She learned to work with AI tools. That's exactly what we'll learn in this course."
+"Meet Sarah, a marketing manager. In 2023, she spent 40 hours per week creating content. In 2024, with ChatGPT, she reduced this to 8 hours. But in 2025, Sarah discovered something revolutionary - AI that can think and reason like a human expert. With OpenAI's o1 reasoning models, Claude's computer control capabilities, and multimodal AI that processes text, images, voice, and video simultaneously, she now operates at the level of a creative director while working just 5 hours per week on content. Her new role? Prompt Engineering Specialist earning $185,000 annually, orchestrating AI systems that generate millions in business value. That's the transformation we'll prepare you for in this course."
 
 **What You'll Learn Today**:
 - The evolution of AI from simple rules to smart assistants (simple timeline)
@@ -56,20 +56,81 @@
 - It can **create new content** (like writing original stories)
 - It can **reason and problem-solve** (like thinking through complex problems)
 
-### **Why AI Skills Matter for Your Career 
 
-**The Numbers - 2024 Data**:
-- Companies are hiring people who know AI: **400% more jobs** in the last year
-- Average salary for AI-related jobs: **$120,000 - $200,000**
-- 90% of companies plan to use AI by 2025
-- Prompt Engineering jobs: **$80,000 - $150,000** starting salary
 
-**Real Examples of AI Jobs**:
-- **Prompt Engineer**: Design and optimize AI prompts for businesses
-- **AI Content Creator**: Use AI to write blogs, social media, marketing materials
-- **AI Customer Service Specialist**: Use AI to answer customer questions faster
-- **AI Data Analyst**: Use AI to find insights in business data
-- **AI Product Manager**: Lead AI product development teams
+**The AI Evolution Revolution (2023-2025) - Latest Breakthrough Timeline**
+The Three Waves of Modern AI
+
+**Wave 1**: Foundation Models (2023)
+
+Technology: Large-scale language models (GPT-4, Claude 3, PaLM 2)
+
+Capability: General text understanding and generation
+
+Business Impact: Content automation, customer service enhancement
+
+Market Size: $50 billion AI software market
+
+Jobs Created: 100,000 AI-related roles globally
+
+**Wave 2**: Reasoning & Multimodal Breakthrough (2024)
+
+Technology: Reasoning models (OpenAI o1), advanced multimodal AI
+
+Capability: Human-level problem-solving, cross-modal understanding
+
+Business Impact: Complex analysis, autonomous decision-making
+
+Market Size: $126 billion AI software revenue
+
+Jobs Created: 400% increase in prompt engineering roles
+
+**Wave 3**: Enterprise Integration & Agentic AI (2025)
+
+Technology: Autonomous AI agents, domain-specific models
+
+Capability: End-to-end business process automation
+
+Business Impact: 1.7x average ROI, 30% operational cost savings
+
+Market Size: $200+ billion projected
+
+Jobs Created: $120K-$520K salary ranges for AI specialists
+
+
+###**Why AI Skills Matter for Your Career 
+
+**Career Landscape - Updated Reality**
+
+The Numbers That Matter:
+
+Average AI Professional Salary: $120,000 - $520,000 total compensation
+
+Remote Work Revolution: 60% of AI roles now fully remote
+
+**Specialization Premiums:**
+
+Multimodal AI expertise: +20% salary boost
+
+Domain-specific optimization: +15% premium
+
+Research and publications: +25% increase
+
+Team leadership roles: +27.5% compensation
+
+Job Growth: 400% increase in AI-related positions year-over-year
+
+**Real Career Paths in :**
+
+Prompt Engineering Specialist: $120K-$200K (entry to mid-level)
+
+AI Solution Architect: $200K-$350K (senior technical roles)
+
+Multimodal AI Developer: $180K-$320K (specialized technical)
+
+Enterprise AI Strategist: $250K-$450K (business leadership)
+
+AI Research Engineer: $300K-$520K (cutting-edge R&D)
 
 **What This Means for You**:
 - Learning AI skills = Better job opportunities
@@ -124,6 +185,161 @@
 - **Video Understanding**: Analyze video content, extract information
 - **Real-time Search**: Access current information from the web
 - **Voice Interaction**: Natural voice conversations with AI
+
+
+
+**Breakthrough: Reasoning Models Revolution**
+
+**OpenAI o1 Series - The Game Changer**
+
+What Makes It Special: First AI that "thinks" before responding
+
+Reasoning Process: Generates internal chains of thought (like human problem-solving)
+
+Performance Breakthroughs:
+
+83% success rate on International Math Olympiad (vs 13% for GPT-4o)
+
+PhD-level performance in physics, chemistry, biology
+
+89th percentile in Codeforces programming competitions
+
+12.5/15 problems solved on advanced mathematics tests
+
+Two Variants Available:
+
+o1-preview: Full reasoning capabilities, premium pricing
+
+o1-mini: 80% cheaper, focused on STEM and coding tasks
+
+When to Use o1 Models:
+
+Complex mathematical problems
+
+Multi-step logical reasoning
+
+Scientific analysis and research
+
+Advanced coding challenges
+
+Strategic business planning
+
+**Multimodal AI Leaders - Beyond Text**
+
+**What Multimodal Means :**
+
+Text + Images: Document analysis, visual content creation
+
+Text + Audio: Voice conversations, podcast analysis
+
+Text + Video: Video understanding, content extraction
+
+Combined Processing: All modalities simultaneously for comprehensive analysis
+
+**Enterprise Multimodal Applications:**
+
+Customer Support: Analyze screenshots + text descriptions simultaneously
+
+R&D Acceleration: Process research papers + diagrams + data tables
+
+Content Creation: Generate coordinated text, image, and video content
+
+Quality Control: Visual inspection + sensor data + documentation analysis
+
+**Business Impact of Multimodal AI:**
+
+40-60% improvement in operational efficiency
+
+25-35% reduction in routine task processing time
+
+Comprehensive insights previously impossible with single-modal systems
+
+Enhanced decision-making through multi-source data integration
+
+
+**GPT-4o (OpenAI) - The Multimodal Champion**
+
+Capabilities: Text, images, voice conversations, real-time audio
+
+Unique Features: Natural voice interactions, image analysis
+
+Context Window: 128,000 tokens (about 100 pages)
+
+Pricing: $5/1M input, $15/1M output tokens
+
+Best For: Creative work, customer service, voice applications
+
+**Claude 3.5 Sonnet (Anthropic) - The Coding Expert**
+
+Revolutionary Features:
+
+Artifacts: Real-time collaborative workspace
+
+Computer Use: AI that can control computers directly
+
+Coding Excellence: 49% success rate on SWE-bench (industry-leading)
+
+Context Window: 200,000 tokens (about 150 pages)
+
+Pricing: $3/1M input, $15/1M output tokens
+
+Best For: Software development, analysis, document processing
+
+**Gemini 1.5 Pro (Google) - The Context King**
+
+Massive Context: 1,000,000 tokens (about 750 pages of text)
+
+Multimodal: Text, images, audio, video understanding
+
+Real-time Search: Current information access
+
+Pricing: $1.25/1M input, $5/1M output tokens
+
+Best For: Long document analysis, research, video processing
+
+**DeepSeek V2 - The Cost-Effective Champion**
+
+Breakthrough Pricing: $0.14/1M input, $0.28/1M output tokens
+
+Strong Performance: Competitive reasoning and coding capabilities
+
+Enterprise Value: 95% cost reduction vs premium models
+
+Best For: Budget-conscious deployments, high-volume processing
+
+**Enterprise Model Selection Framework** 
+
+**For Complex Reasoning Tasks:**
+
+OpenAI o1-preview - Premium reasoning, $50/1M tokens
+
+OpenAI o1-mini - Cost-effective reasoning, 80% cheaper
+
+Claude 3.5 Sonnet - Balanced reasoning + coding
+
+**For Multimodal Applications:**
+
+Gemini 1.5 Pro - Video, audio, massive context
+
+GPT-4o - Voice conversations, image analysis
+
+Claude 3.5 Sonnet - Document analysis, visual reasoning
+
+**For Cost Optimization:**
+
+DeepSeek V2 - Lowest cost, strong performance
+
+GPT-3.5 - Budget option for simple tasks
+
+Gemini 1.5 Pro - Best value for multimodal
+
+
+
+
+
+
+
+
 
 ### **How LLMs Work - Transformers and Attention Mechanisms **
 
@@ -276,7 +492,7 @@ Total: 11,000 tokens ❌ (Too big!)
 - **Output Tokens**: What AI sends back to you (responses)
 - **You pay for both** input and output tokens
 
-**Cost Examples - **:
+**Cost Examples - Price may Vary**:
 
 **Premium Models**:
 - **GPT-4o (Most Advanced)**: Input: $5/1M tokens, Output: $15/1M tokens
@@ -312,7 +528,33 @@ Total: 11,000 tokens ❌ (Too big!)
 - **Start with free tiers** for learning
 - **Monitor your usage** to avoid surprises
 
+
+
+**2025 Pricing Reality Check**
+Current API Pricing (Per Million Tokens):
+
+Model	                  Input Cost	Output Cost	      Context Window	       Best Use Case
+OpenAI o1-preview	        $15.00	      $60.00	          128K	            Complex reasoning
+GPT-4o	                    $5.00	      $15.00	          128K	             Multimodal tasks
+Claude 3.5 Sonnet	        $3.00	      $15.00	          200K	             Coding, analysis
+Gemini 1.5 Pro	            $1.25	      $5.00	               1M	             Long documents
+DeepSeek V2	                $0.14	      $0.28	              128K	           Budget deployments
+GPT-3.5 Turbo	            $0.50	      $1.50	               16K	               Simple tasks
+
+**Real-World Cost Examples:**
+
+Small business chatbot: $10-50/month (1M tokens)
+
+Enterprise document analysis: $500-2,000/month (50M tokens)
+
+Large-scale customer service: $5,000-20,000/month (500M tokens)
+
+Multimodal content generation: $1,000-5,000/month (100M tokens)
+
 ---
+
+
+
 
 ## **Part 5: Hands-on Lab - Exploring Different AI Tools**
 
