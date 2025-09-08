@@ -11,7 +11,7 @@
 
 ## **Part 1: Understanding Prompt Engineering**
 
-### **Opening Hook - Real Success Story**
+
 **Meet Alex - The Prompt Engineer Success Story**:
 "Alex was a customer service representative making $35,000 per year. After learning prompt engineering, she now works as an AI consultant helping companies automate their customer service. She makes $85,000 per year and works from home. The difference? She learned how to ask AI the right questions to solve business problems."
 
