@@ -972,39 +972,7 @@ Practice Area: [Relevant field of law]"
 
 ---
 
-## **Instructor Notes**
 
-### **Common Student Questions**:
-- **"How do I know which pattern to use?"** → Match pattern to task type and requirements
-- **"How many templates should I create?"** → Start with 3-5 for your main use cases
-- **"How do I know if my template is good?"** → Test with multiple scenarios and gather feedback
-- **"Can I share templates with others?"** → Yes, templates are meant to be shared and improved
-
-### **Troubleshooting for Beginners**:
-- **"My templates are too complex"** → Start simple and add complexity gradually
-- **"Templates don't work for my use case"** → Customize existing patterns or create new ones
-- **"I don't know how to organize my templates"** → Use the provided structure as a starting point
-- **"My templates produce inconsistent results"** → Add more specific instructions and examples
-
-### **Engagement Strategies**:
-- **Use real examples**: Connect to their work or daily life
-- **Encourage sharing**: Let students share templates with each other
-- **Celebrate creativity**: When they create innovative templates, acknowledge it
-- **Connect to career goals**: Show how templates improve professional efficiency
-
-### **Making It Accessible**:
-- **Provide templates**: Give them starting points to work from
-- **Use simple language**: Avoid technical jargon
-- **Offer multiple examples**: Show different ways to approach the same task
-- **Give practical frameworks**: Structures they can follow
-
-### **What to Do If Students Struggle**:
-1. **Start with existing patterns**: Don't make them create from scratch
-2. **Provide examples**: Show them exactly what to do
-3. **Encourage collaboration**: Let them work together on templates
-4. **Focus on one domain**: Don't overwhelm them with multiple areas
-
----
 
 ## **Resources for Students**
 
