@@ -238,6 +238,8 @@ Then create a flexible master plan that can adapt to any scenario."
 
 ---
 
+
+
 ## **Part 3: Self-Consistency Prompting - Reliable Results**
 
 ### **Understanding Self-Consistency Prompting**
