@@ -1,17 +1,15 @@
 # Module 4.2: Fine-tuning and Custom Models
-## Detailed Lesson Plan for Complete Beginners
+
 
 ### **Course Information**
-- **Duration**: 4 hours
-- **Format**: Interactive lecture + step-by-step hands-on labs
 - **Prerequisites**: Completed Module 4.1 (Retrieval-Augmented Generation)
 - **Learning Objectives**: By the end of this session, students will master fine-tuning vs. prompt engineering decisions, data preparation, LoRA/QLoRA techniques, model evaluation, and build custom domain-specific assistants
 
 ---
 
-## **Part 1: Introduction to Fine-tuning and Custom Models (60 minutes)**
+## **Part 1: Introduction to Fine-tuning and Custom Models**
 
-### **Opening Hook - The Fine-tuning Success Story (15 minutes)**
+### **Opening Hook - The Fine-tuning Success Story**
 **Meet James - The Custom Model Success Story**:
 "James was a data scientist at a healthcare company struggling with generic AI models that couldn't understand medical terminology. After learning fine-tuning techniques, he created a custom medical AI model that improved diagnosis accuracy by 45%, reduced false positives by 60%, and got promoted to AI Research Director in 8 months. He now leads a team of 12 engineers, all building custom models that generate $3M+ in annual value for the company."
 
@@ -23,7 +21,7 @@
 - Building custom domain-specific AI assistants
 - Latest 2024 fine-tuning tools and market trends
 
-### **Understanding Fine-tuning vs. Prompt Engineering (45 minutes)**
+### **Understanding Fine-tuning vs. Prompt Engineering**
 
 **Think of Fine-tuning Like Teaching a Student vs. Giving Instructions**:
 "Fine-tuning is like teaching a student to become an expert in a specific subject, while prompt engineering is like giving detailed instructions to someone who already knows the basics. Fine-tuning changes the model's knowledge permanently, while prompt engineering works with the model's existing knowledge."
@@ -64,7 +62,7 @@
 - **Result**: 60% faster development, 80% reduction in code review time
 - **Productivity Impact**: 40% increase in development velocity
 
-**Latest 2024 Fine-tuning Trends**:
+**Fine-tuning Trends**:
 - **LoRA/QLoRA**: Efficient fine-tuning with minimal resources
 - **Parameter-Efficient Fine-tuning**: Train only specific parts of models
 - **Multi-task Fine-tuning**: Train on multiple related tasks simultaneously
@@ -73,9 +71,9 @@
 
 ---
 
-## **Part 2: Data Preparation for Fine-tuning (60 minutes)**
+## **Part 2: Data Preparation for Fine-tuning**
 
-### **Understanding Data Requirements (30 minutes)**
+### **Understanding Data Requirements**
 
 **Think of Training Data Like Teaching Materials**:
 "Training data is like the textbooks and examples you use to teach someone. The quality and quantity of your training data directly determines how well your fine-tuned model will perform. You need the right type, amount, and quality of data to succeed."
@@ -106,7 +104,7 @@
 - **Metadata**: Include relevant context and labels
 - **Validation**: Ensure data can be processed correctly
 
-### **Data Preparation Techniques (30 minutes)**
+### **Data Preparation Techniques**
 
 **Technique 1: Data Collection and Sourcing**
 ```
@@ -173,9 +171,9 @@ Data Balancing:
 
 ---
 
-## **Part 3: LoRA and QLoRA Techniques (60 minutes)**
+## **Part 3: LoRA and QLoRA Techniques**
 
-### **Understanding LoRA (Low-Rank Adaptation) (30 minutes)**
+### **Understanding LoRA (Low-Rank Adaptation)**
 
 **Think of LoRA Like Adding Specialized Modules**:
 "LoRA is like adding specialized modules to a general-purpose computer. Instead of changing the entire computer, you add small, specialized components that can be easily swapped in and out. This makes fine-tuning much more efficient and cost-effective."
@@ -218,7 +216,7 @@ lora_config = {
 }
 ```
 
-### **Understanding QLoRA (Quantized LoRA) (30 minutes)**
+### **Understanding QLoRA (Quantized LoRA)**
 
 **Think of QLoRA Like Compressing and Optimizing**:
 "QLoRA is like compressing a large file and then making small, targeted changes to it. You get the benefits of LoRA (efficient fine-tuning) plus the benefits of quantization (reduced memory usage), making it possible to fine-tune large models on consumer hardware."
@@ -262,9 +260,9 @@ qlora_config = {
 
 ---
 
-## **Part 4: Model Evaluation and Testing (60 minutes)**
+## **Part 4: Model Evaluation and Testing**
 
-### **Understanding Model Evaluation (30 minutes)**
+### **Understanding Model Evaluation**
 
 **Think of Model Evaluation Like Testing a Student**:
 "Model evaluation is like testing a student to see how well they've learned. You need to test them on different types of questions, in different situations, and measure their performance objectively to ensure they're ready for real-world use."
@@ -295,7 +293,7 @@ qlora_config = {
 - **Factual Accuracy**: Verify factual claims
 - **Privacy**: Ensure no sensitive data leakage
 
-### **Testing Strategies (30 minutes)**
+### **Testing Strategies**
 
 **Strategy 1: Holdout Testing**
 ```
@@ -354,9 +352,9 @@ Benefits:
 
 ---
 
-## **Part 5: Hands-on Lab - Building Custom Domain-Specific Assistants (60 minutes)**
+## **Part 5: Hands-on Lab - Building Custom Domain-Specific Assistants**
 
-### **Lab Setup - Getting Ready (10 minutes)**
+### **Lab Setup - Getting Ready**
 
 **What You'll Need**:
 - Access to Google Colab or local Python environment
@@ -370,7 +368,7 @@ Benefits:
 3. Set up Hugging Face authentication
 4. Prepare your domain-specific dataset
 
-### **Lab Exercise 1: Basic Fine-tuning with LoRA (20 minutes)**
+### **Lab Exercise 1: Basic Fine-tuning with LoRA**
 
 **Task**: Fine-tune a model for a specific domain using LoRA
 
@@ -543,7 +541,7 @@ for question in test_questions:
     print("-" * 50)
 ```
 
-### **Lab Exercise 2: Advanced Fine-tuning with QLoRA (20 minutes)**
+### **Lab Exercise 2: Advanced Fine-tuning with QLoRA**
 
 **Task**: Implement QLoRA for memory-efficient fine-tuning
 
@@ -653,7 +651,7 @@ print("Memory usage after QLoRA setup:")
 get_memory_usage()
 ```
 
-### **Lab Exercise 3: Model Evaluation and Testing (10 minutes)**
+### **Lab Exercise 3: Model Evaluation and Testing**
 
 **Task**: Evaluate the fine-tuned model performance
 
@@ -768,16 +766,16 @@ inference_time = test_inference_speed(model, tokenizer, test_questions)
 
 ---
 
-## **Assessment and Wrap-up (15 minutes)**
+## **Assessment and Wrap-up**
 
-### **Quick Knowledge Check (5 minutes)**
+### **Quick Knowledge Check**
 **Questions**:
 1. When should you use fine-tuning vs. prompt engineering?
 2. What are the benefits of LoRA and QLoRA?
 3. How do you evaluate a fine-tuned model?
 4. What are the key steps in data preparation?
 
-### **Key Takeaways (5 minutes)**
+### **Key Takeaways**
 1. **Fine-tuning vs. prompt engineering** - Choose based on your specific needs
 2. **Data quality matters** - Good data leads to good models
 3. **LoRA/QLoRA are game-changers** - Make fine-tuning accessible and efficient
@@ -811,39 +809,7 @@ inference_time = test_inference_speed(model, tokenizer, test_questions)
 
 ---
 
-## **Instructor Notes**
 
-### **Common Student Questions**:
-- **"When should I use fine-tuning vs. prompt engineering?"** → Use fine-tuning for domain-specific, consistent behavior
-- **"How much data do I need for fine-tuning?"** → Start with 1000+ examples, more is better
-- **"What's the difference between LoRA and QLoRA?"** → QLoRA adds quantization for memory efficiency
-- **"How do I know if my fine-tuned model is good?"** → Use multiple evaluation metrics and real-world testing
-
-### **Troubleshooting for Beginners**:
-- **"My fine-tuning is too slow"** → Use LoRA/QLoRA, reduce batch size, use smaller models
-- **"I'm running out of memory"** → Use QLoRA, reduce batch size, use gradient checkpointing
-- **"My model isn't improving"** → Check data quality, adjust learning rate, increase training data
-- **"My model is overfitting"** → Add regularization, reduce model complexity, increase training data
-
-### **Engagement Strategies**:
-- **Use real examples**: Connect to their work or business interests
-- **Encourage experimentation**: Let them try different approaches
-- **Celebrate improvements**: When they build working models, acknowledge it
-- **Connect to career goals**: Show how fine-tuning skills help their job prospects
-
-### **Making It Accessible**:
-- **Provide templates**: Give them starting points for different fine-tuning tasks
-- **Use simple language**: Avoid jargon and complex technical concepts
-- **Offer multiple examples**: Show different approaches to the same problem
-- **Give practical frameworks**: Structures they can follow
-
-### **What to Do If Students Struggle**:
-1. **Start with simple examples**: Don't make them tackle complex fine-tuning immediately
-2. **Provide step-by-step guidance**: Break down complex tasks into manageable steps
-3. **Encourage practice**: The more they fine-tune models, the better they get
-4. **Focus on understanding**: Help them understand the concepts, not just the code
-
----
 
 ## **Resources for Students**
 
